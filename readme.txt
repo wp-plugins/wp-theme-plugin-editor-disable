@@ -26,9 +26,9 @@ Features
 
 == Screenshots ==
 
-1. Theme/Plugin Editor avaible by default
+1. Theme/Plugin Editor available by default
 2. Activate the plugin
-3. No editor avaible when this plugin is active
+3. No editor available when this plugin is active
 
 == Changelog ==
 
