@@ -15,8 +15,7 @@ WordPress, by default, allows you the ability edit theme and plugin files direct
 
 If you never change files directly on your WordPress site, there's absolutely no need to have this feature available to you or your administrators.
 
-Features
-
+= Features =
 * Disable Wordpress Theme/Plugin Editor
 
 == Installation ==
