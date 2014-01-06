@@ -20,7 +20,7 @@ If you never change files directly on your WordPress site, there's absolutely no
 
 == Installation ==
 
-1. Download and extract plugin files to a wp-content/plugin directory.
+1. Download and extract plugin files to wp-content/plugin directory.
 2. Activate the plugin through the WordPress admin interface.
 
 == Screenshots ==
