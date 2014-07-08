@@ -1,6 +1,6 @@
 === WP Theme Plugin Editor Disable ===
 Contributors: Yslo
-Tags: editor, theme, plugin, security, admin
+Tags: editor, theme, plugin, security, admin, core
 Requires at least: 3.0
 Tested up to: 3.9
 Stable tag: 1.0.0
