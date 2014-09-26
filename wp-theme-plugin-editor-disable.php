@@ -7,7 +7,6 @@
  * Author: Yslo
  * Version: 1.0.0
  * Author URI: http://profiles.wordpress.org/yslo
- * Tested up to: 3.8
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
